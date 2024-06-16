@@ -5,7 +5,7 @@
 
 * 🎓 I was studied in Automation Engineering at King Mongkut's University of Technology Thonburi, Bangkok, Thailand.
 * 🧐 Interested in full stack. Recent focus on backend.
-* 🌱 Currently learning Python, HTML, CSS & JS.
+* 🌱 Currently learning Java, Python, SQL, HTML, CSS, and JavaScript.
 
 <details>
     <summary>GitHub statistical reports:</summary>
