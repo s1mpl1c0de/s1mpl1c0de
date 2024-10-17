@@ -3,9 +3,9 @@
 
 ![image](https://github.com/jeanhatemonday/jeanhatemonday/blob/master/images/header.png)
 
-- 🎓 I was studied in Automation Engineering at King Mongkut's University of Technology Thonburi, Bangkok, Thailand.
 - 🧐 Interested in Backend Developer.
 - 🌱 Currently learning Python, Java, SQL, HTML, CSS, and JavaScript.
+- 🎓 I was studied in Automation Engineering at King Mongkut's University of Technology Thonburi, Bangkok, Thailand.
 
 <details>
     <summary>GitHub statistical reports:</summary>
