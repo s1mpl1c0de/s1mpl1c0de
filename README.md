@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Jean HateMonday</h1>
+<h1 align="center">Hi 👋🏼, I'm Jean</h1>
 <h3 align="center">A passionate software developer from Thailand</h3>
 
 ![image](https://github.com/jeanhatemonday/jeanhatemonday/blob/master/images/header.png)
