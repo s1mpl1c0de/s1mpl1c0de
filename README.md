@@ -11,8 +11,8 @@
     <summary>GitHub statistical reports:</summary>
     <br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jeanhatemonday&theme=default&show_icons=true&hide_border=true&count_private=true&card_width=660px" alt="image" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s1mpl1c0de&theme=default&show_icons=true&hide_border=true&count_private=true&card_width=660px" alt="image" /></p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jeanhatemonday" alt="image" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=s1mpl1c0de" alt="image" /></p>
 
 </details>
